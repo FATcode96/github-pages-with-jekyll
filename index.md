@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Testing out GitHub Pages for the first time. Quite cool stuff to be fair.
